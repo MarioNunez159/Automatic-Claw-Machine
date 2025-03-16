@@ -1,4 +1,4 @@
-#include <RF24.h>
+#include <RF24.h>  //using "RF24" library by TMRh20
 #include <SPI.h>
 #include <nRF24L01.h>
 
